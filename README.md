@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Khanh 👋
 
-<!--
-**tkhanhdev/tkhanhdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer passionate about building clean and interactive web experiences.
+---
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- HTML5
+- CSS3 (Flexbox, Grid, Animations)
+- JavaScript (ES6+)
+- Responsive Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🎯 Current Focus
+- Improving UI/UX skills
+- Building animation-rich web projects
+- Preparing for tech opportunities in Germany 🇩🇪
+
+
+---
+
+
+## 📂 Featured Project
+- 🌿 Dynamic Glowing Plants (CSS & JS Animation Project)
+
+
+---
+
+
+## 📫 Connect With Me
+- GitHub: https://github.com/tkhanhdev
